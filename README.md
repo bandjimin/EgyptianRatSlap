@@ -3,7 +3,6 @@ Based on the modern American card game, this project utilizes an Object-oriented
 
 ## AUTHOR INFO
 Names: Benjamin Chan 
-Chapman Email: benchan@chapman.edu
 
 ## RUNNING INSTRUCTIONS
 javac Driver.java Game.java Dealer.java Player.java Card.java
